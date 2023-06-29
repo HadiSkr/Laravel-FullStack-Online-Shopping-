@@ -1,0 +1,18 @@
+.checkout-form label{
+    font-size: 12px;
+    font-weight: 700;
+}
+.checkout-form input{
+    font-size: 12px;
+    padding: 5px;
+    font-weight: 400;
+
+}
+.orderdetails label{
+    font-size: 12px;
+    font-weight: 700;
+}
+.orderdetails div{
+    font-size: 14px;
+    padding: 10px;
+}
